@@ -23,7 +23,10 @@ class BankAccount{
     private:
     int balance=0;
     string name;
+    
 };
+
+https://youtu.be/Tz7FsunBbfQ?si=ap8NU7lTWbN4TizK
 
 
 int main() {
